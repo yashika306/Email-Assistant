@@ -8,4 +8,6 @@ import lombok.Data;
 public class EmailRequest {
     private String emailContent;
     public String tone;
+
+    
 }
